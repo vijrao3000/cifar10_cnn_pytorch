@@ -20,6 +20,7 @@ Files already downloaded and verified\
 .............Epoch 8 iterations 12500, average loss 0.857009946269989\
 .............Epoch 9 iterations 12500, average loss 0.8272576471877098\
 Finished Training\
-Accuracy for 10000 test images: 63 %\
+
+Accuracy for 10000 test images: 63 %
 
 ---------------------------------------------------------
